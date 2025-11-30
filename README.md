@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently stadying on Master's degree od Computer Game Development in Manchester Metropolian University<br>🌱 I’m currently learning Unity Engine and Unreal Engine <br>📫 How to reach me - oleksiizadniprianets@gmail.com<br>📄 Know about my knowledge and experiences - https://drive.google.com/file/d/1LPSwsvK4hcdJWNczMDPUf1r2rJ7aU-SZ/view?usp=drive_link<br>⚡ Fact about me: I periodically play computer games and have a personal account on Steam. Therefore, in addition to creating games, I play many of them myself, analyze and study the mechanics for implementation.
+🔭 I’m currently stadying on Master's degree of Computer Game Development in Manchester Metropolian University<br>🌱 I’m currently learning Unity Engine and Unreal Engine <br>📫 How to reach me - oleksiizadniprianets@gmail.com<br>📄 Know about my knowledge and experiences - https://drive.google.com/file/d/1LPSwsvK4hcdJWNczMDPUf1r2rJ7aU-SZ/view?usp=drive_link<br>⚡ Fact about me: I periodically play computer games and have a personal account on Steam. Therefore, in addition to creating games, I play many of them myself, analyze and study the mechanics for implementation.
 
 
 ## 🌐 Socials:
